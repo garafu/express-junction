@@ -1,6 +1,6 @@
 {
   "name": "express-junction",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Routing middle ware of \"express\" which can controll url routing more easier.",
   "main": "./lib/index.js",
   "scripts": {
