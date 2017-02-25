@@ -12,8 +12,8 @@ This middleware provides following features.
 there is development restriction (controllers path, and views path) , but, this middleware enables you to above URL routing more easier.
 Details of path rules are following:
 
-* Controller scripts make under the path of "/controllers".
-* View templates make under the path of "/controllers/{controller name}". 
+* Controller scripts make under the directory of "/controllers".
+* View templates make under the directory of "/views/{controller name}". 
 
 If follow above path rules, then you can access `/{controller name}/{action name}` URL.
 
